@@ -635,6 +635,10 @@ transform: translateY(0%);
   outline: transparent;
 }
 
+.review-form-checkbox {
+  margin-bottom: 24px;
+}
+
 .review-form-checkbox-label {
   font-size: 12px;
   line-height: 1.17;
