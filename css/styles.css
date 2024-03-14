@@ -95,7 +95,11 @@ max-width: 768px;
 
 @media screen and (min-width:768px) {
 
-
+.page-header-container {
+    display: flex;
+    align-items: center;
+    padding: 0 15px 0 15px;
+  }
   .open-menu-btn {
     display: none;
   }
