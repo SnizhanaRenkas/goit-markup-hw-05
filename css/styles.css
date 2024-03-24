@@ -537,6 +537,7 @@ transform: translateY(0%);
 .modal-close-btn:focus {
   background-color: #404bbf;
   border: none;
+  
 }
 
 .modal-close-icon {
@@ -573,6 +574,7 @@ transform: translateY(0%);
 
 .review-form-input-wrapper {
   position: relative;
+  border-color: #4D5AE5;
 }
 
 .review-form-input {
@@ -655,6 +657,7 @@ transform: translateY(0%);
   align-items: center;
   justify-content: center;
   fill: transparent;
+  margin-bottom: 24px;
 }
 
 .review-form-checkbox:checked + .review-form-checkbox-label .review-form-own-checkbox {
