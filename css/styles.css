@@ -658,7 +658,6 @@ transform: translateY(0%);
   align-items: center;
   justify-content: center;
   fill: transparent;
-  margin-bottom: 24px;
 }
 
 .review-form-checkbox:checked + .review-form-checkbox-label .review-form-own-checkbox {
