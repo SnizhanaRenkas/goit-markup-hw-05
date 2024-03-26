@@ -563,6 +563,10 @@ transform: translateY(0%);
   margin-bottom: 8px;
 }
 
+.review-form-field-wrapper{
+  margin-bottom: 24px;
+}
+
 .review-form-field-label {
   display: block;
   font-size: 12px;
